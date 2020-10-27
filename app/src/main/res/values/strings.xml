@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UI Tutorial</string>
+    <string name="favourite_contact">Favourite Contact</string>
+    <string name="new_group">New group</string>
+    <string name="select_contacts">Select Contacts</string>
+    <string name="setting">setting</string>
+    <string name="enter_message">Enter message</string>
+</resources>
