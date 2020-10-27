@@ -1,5 +1,5 @@
 # UI_Tutorial
 This project impelements a UI design and fetches JSON data from a URL in Android application.
-![Alt Text](https://drive.google.com/file/d/1fgaK7vYmZobautdKDbw61GKgjePGHtIP/view?usp=sharing)
+![Alt Text](https://media.giphy.com/media/yMblOC9cglY68irwdN/giphy.gif)
 
 
